@@ -1,0 +1,17 @@
+C:\Users\Dell 01\source\repos\Kredit Mobil\Kredit Mobil\bin\Debug\Kredit Mobil.exe.config
+C:\Users\Dell 01\source\repos\Kredit Mobil\Kredit Mobil\bin\Debug\Kredit Mobil.exe
+C:\Users\Dell 01\source\repos\Kredit Mobil\Kredit Mobil\bin\Debug\Kredit Mobil.pdb
+C:\Users\Dell 01\source\repos\Kredit Mobil\Kredit Mobil\obj\Debug\Kredit Mobil.csproj.AssemblyReference.cache
+C:\Users\Dell 01\source\repos\Kredit Mobil\Kredit Mobil\obj\Debug\Kredit Mobil.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell 01\source\repos\Kredit Mobil\Kredit Mobil\obj\Debug\Kredit_Mobil.Form1.resources
+C:\Users\Dell 01\source\repos\Kredit Mobil\Kredit Mobil\obj\Debug\Kredit_Mobil.kredit.resources
+C:\Users\Dell 01\source\repos\Kredit Mobil\Kredit Mobil\obj\Debug\Kredit_Mobil.pegawai.resources
+C:\Users\Dell 01\source\repos\Kredit Mobil\Kredit Mobil\obj\Debug\Kredit_Mobil.pelanggan.resources
+C:\Users\Dell 01\source\repos\Kredit Mobil\Kredit Mobil\obj\Debug\Kredit_Mobil.pembayaran.resources
+C:\Users\Dell 01\source\repos\Kredit Mobil\Kredit Mobil\obj\Debug\Kredit_Mobil.Properties.Resources.resources
+C:\Users\Dell 01\source\repos\Kredit Mobil\Kredit Mobil\obj\Debug\Kredit_Mobil.transaksi_kredit.resources
+C:\Users\Dell 01\source\repos\Kredit Mobil\Kredit Mobil\obj\Debug\Kredit Mobil.csproj.GenerateResource.cache
+C:\Users\Dell 01\source\repos\Kredit Mobil\Kredit Mobil\obj\Debug\Kredit Mobil.csproj.CoreCompileInputs.cache
+C:\Users\Dell 01\source\repos\Kredit Mobil\Kredit Mobil\obj\Debug\Kredit Mobil.exe
+C:\Users\Dell 01\source\repos\Kredit Mobil\Kredit Mobil\obj\Debug\Kredit Mobil.pdb
+C:\Users\Dell 01\source\repos\Kredit Mobil\Kredit Mobil\obj\Debug\Kredit_Mobil.nav.resources
